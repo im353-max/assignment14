@@ -1,3 +1,12 @@
+Github Actions
+<img width="3820" height="1770" alt="GithubActions" src="https://github.com/user-attachments/assets/09a1f3e5-2613-43f1-bf35-a26f4c08aace" />
+https://github.com/im353-max/assignment14/actions/runs/19998922371
+
+DockerHub
+<img width="3825" height="1765" alt="DockerHub" src="https://github.com/user-attachments/assets/312c3504-75e3-47d6-b9e5-34f48cdb6ef9" />
+https://hub.docker.com/repository/docker/imanayath/601_module14/tags
+
+
 # 📦 Project Setup
 
 ---

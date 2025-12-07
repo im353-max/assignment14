@@ -6,6 +6,16 @@ DockerHub
 <img width="3825" height="1765" alt="DockerHub" src="https://github.com/user-attachments/assets/312c3504-75e3-47d6-b9e5-34f48cdb6ef9" />
 https://hub.docker.com/repository/docker/imanayath/601_module14/tags
 
+Browse: All user-specific calculations are retrieved and displayed correctly.
+<img width="3800" height="1915" alt="BrowseCalculation" src="https://github.com/user-attachments/assets/a3419b35-562d-48f5-8f3d-e29ed35a6e30" />
+Read: Specific calculations can be accessed with accurate details.
+<img width="3840" height="1825" alt="ReadOperaton" src="https://github.com/user-attachments/assets/6e73d972-6013-45af-8778-bafc47eabdb5" />
+Edit: Calculations can be updated with valid inputs, and changes persist in the database.
+<img width="3832" height="1810" alt="EditOperation" src="https://github.com/user-attachments/assets/7f5749b7-9196-49f4-858f-11f43d3277b6" />
+Add: New calculations are created successfully with correct operation results.
+<img width="3800" height="1915" alt="AddOperation" src="https://github.com/user-attachments/assets/d33e6ec2-48b6-44bb-a6ac-6b71cf76bb3a" />
+Delete: Calculations are removed effectively without affecting other data.
+<img width="3840" height="1817" alt="DeleteOperation" src="https://github.com/user-attachments/assets/bc477f11-e6b0-474b-bdb6-336c2476d7a9" />
 
 # 📦 Project Setup
 
